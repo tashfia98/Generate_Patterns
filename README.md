@@ -1,6 +1,6 @@
 # Generate_Patterns
 
-# Objectives
+## Objectives
 A simple java implementation that allows the user to generate pattern.
 
 ## Author
